@@ -1,6 +1,6 @@
 # Python Virtual Environment Tutorial
 
-A comprehensive guide to creating and managing virtual environments in Python.
+A simple guide to creating and managing virtual environments in Python.
 
 # Table of Contents
 - [Create a Virtual Environment](#create-a-virtual-environment)
